@@ -1,2 +1,2 @@
 #!/bib/bash
-printf '%.2f\n' $NUM
+printf "%.2/f\n"  $NUM
